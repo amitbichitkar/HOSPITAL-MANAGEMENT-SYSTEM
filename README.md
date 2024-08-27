@@ -1,0 +1,1 @@
+This Number Guessing Game is a simple and fun application where players try to guess a randomly generated number within a specified range. With each guess, the game provides feedback on whether the guess is too high, too low, or correct. The game is designed to be engaging and challenging, making it a great way to test your intuition and improve your guessing skills.
